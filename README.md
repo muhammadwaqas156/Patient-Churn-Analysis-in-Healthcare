@@ -136,10 +136,13 @@ A proactive, data-driven approach can significantly improve **patient retention,
 📦 Patient-Churn-Analysis
  ┣ 📜 Patient_Churn_Analysis_Healthcare.ipynb
  ┣ 📄 README.md
- ┗ 📊 dataset (if applicable)
+ ┗ 📊 dataset
 ```
 
 ---
+Muhammad Waqas
+
+kbwaqas@gmail.com
 
 ## ⭐ If you found this project useful
 
